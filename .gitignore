@@ -1,0 +1,2 @@
+#prevent writing bot token to repository
+config.json
